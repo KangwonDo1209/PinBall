@@ -7,6 +7,8 @@
 -----
 # 랜덤 뽑기 핀볼
 
+Unity 버전 : 6000.0.4f1
+
 시연 영상 - https://www.youtube.com/shorts/0CJVwB_Xu1k 
 
 게임 시작시 보이는 입력창에 줄바꿈(Enter) 간격으로 원하는 이름을 입력합니다.
